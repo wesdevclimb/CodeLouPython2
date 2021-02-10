@@ -1,1 +1,1 @@
-#Hello, fellow kids.
+# This repo contains both my homework and project files. My project specfic README is down one directory level.   

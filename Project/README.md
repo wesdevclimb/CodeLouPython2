@@ -1,1 +1,4 @@
-**Get ready for some of that sweet sweet traditional research**
+# Hypothesis
+Popular belief in American Exceptionalism has had a well documented decline for several years and the US pandemic response in 2020 is believed to have severely impacted support for the narrative.  
+
+Using public opinion survey data collect by the Chicago Council for Global Affairs, I will attempt to model the decline of American Exceptionalism from 2012 to 2019 and, using that model, I will test if the observed support for American Exceptionalism in 2020 is significantly lower than the model predicts. If this is the case, then we will fail to reject the hypothesis that American Exceptionalism was significantly affected by the events of 2020, i.e. the COVID-19 Pandemic Response.     
