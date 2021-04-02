@@ -10,6 +10,8 @@ Q21: Some people say the United States has a unique character that makes it the 
 2. No greater than other nations
 3. Refused
 
+Other demographic information is encoded as 'Q1010' = party identity, "weight" = statistical weight, "PPGENDER" = gender, "PPETHM" = ethnicity, and "ppagect4" = age. 
+
 # Hypothesis
 I think that the data will show a strong relationship between party identity and support for American Exceptionalism with those identifying as Republicans being much more likely to have support for that political narrative.  
 
